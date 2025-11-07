@@ -34,7 +34,7 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamx-ariful-islam&show_icons=true&hide_border=true&bg_color=0:00C4B4,100:6EE7B7&title_color=03045E&icon_color=FF6B6B&text_color=1A1A1A&theme=default"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamx-ariful-islam&layout=compact&hide_border=true&bg_color=0:00C4B4,100:6EE7B7&title_color=03045E&text_color=1A1A1A&theme=default"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamx-ariful-islam&show_icons=true&hide_border=true&bg_color=0:00C4B4,100:6EE7B7&title_color=03045E&icon_color=FF6B6B&text_color=1A1A1A&theme=default"/>
+  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamx-ariful-islam&show_icons=true&hide_border=true&bg_color=0:00C4B4,100:6EE7B7&title_color=03045E&icon_color=FF6B6B&text_color=1A1A1A&theme=default"/> -->
 </div>
 
 
