@@ -38,7 +38,7 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 </div>
 
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
