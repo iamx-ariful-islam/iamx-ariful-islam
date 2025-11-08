@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:203A43&height=200&section=header&text=Hi&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=50&descAlign=50&desc=Md.%20Ariful%20Islam%20%7C%20iamx-ariful-islam" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:203A43&height=200&section=header&text=Hi!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=50&descAlign=50&desc=Md.%20Ariful%20Islam%20%7C%20iamx-ariful-islam" width="100%"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%7C+Data+Science;Building+Secure+and+Scalable+Systems;Python+%7C+C%2B%2B+%7C+Django+%7C+Qt+%7C+React" alt="Typing Animation" />
 </div>
