@@ -9,7 +9,7 @@
 
 I’m a Cybersecurity and IT professional specializing in building **secure, scalable and reliable applications** for modern technology. Skilled in **Python, C++, Qt/QML, Django and Kali Linux**, I focus on bridging **software engineering and security** to solve real-world tech challenges efficiently. I also have hands-on experience with **healthcare technology, secure system design, penetration testing and ethical hacking**, ensuring compliance with industry standards and delivering robust, reliable solutions.
 
-> “Security and simplicity are not opposites — they are partners in good design.”  
+> “Security and simplicity are not opposites — they are partners in good design”  
 > — *Md. Ariful Islam*
 
 
