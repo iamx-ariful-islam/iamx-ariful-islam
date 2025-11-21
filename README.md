@@ -25,16 +25,19 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
+</div><br/>
 
 
-<br/><br/>
 ---
+<br/>
 
 <div align="center">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamx-ariful-islam&show_icons=true&hide_border=true&bg_color=0:00C4B4,100:6EE7B7&title_color=03045E&icon_color=FF6B6B&text_color=1A1A1A&theme=default"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamx-ariful-islam&layout=compact&hide_border=true&bg_color=0:00C4B4,100:6EE7B7&title_color=03045E&text_color=1A1A1A&theme=default"/>
   <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamx-ariful-islam&show_icons=true&hide_border=true&bg_color=0:00C4B4,100:6EE7B7&title_color=03045E&icon_color=FF6B6B&text_color=1A1A1A&theme=default"/> -->
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamx-ariful-islam&layout=compact&hide_border=true&bg_color=0:00C4B4,100:6EE7B7&title_color=03045E&text_color=1A1A1A&theme=default"/> -->
+
 </div>
 
 
@@ -42,12 +45,17 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 
 <div align="center">
 
+<a href="https://tryhackme.com/p/iamx.ariful.islam">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/iamx.ariful.islam.png" alt="Md. Ariful Islam" />
+</a><br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamx-ariful-islam)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamx.ariful.islam@gmail.com)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mx_ariful_islam)&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@whoiamx)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamx-ariful-islam)&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamx.ariful.islam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 </div>
 
