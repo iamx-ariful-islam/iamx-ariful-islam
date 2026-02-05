@@ -36,8 +36,8 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 <div align="center">
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamx-ariful-islam&theme=default) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamx-ariful-islam&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamx-ariful-islam&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamx-ariful-islam&theme=discord_old_blurple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamx-ariful-islam&theme=discord_old_blurple)
 
 </div>
 
