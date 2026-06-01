@@ -17,7 +17,7 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,python,django,typescript,react,postgres,mongodb,git,github,linux,docker,bash,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,python,django,typescript,react,postgres,mongodb,git,github,linux,docker,bash&theme=dark" />
 </p><br/>
 
 
