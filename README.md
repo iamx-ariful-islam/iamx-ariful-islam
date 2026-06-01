@@ -15,19 +15,10 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 
 <br/>
 
-<div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br/>
-![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![Qt Quick](https://img.shields.io/badge/Qt%20Quick-00BFA6?style=for-the-badge&logo=qt&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,qt,python,django,typescript,react,postgres,mongodb,git,github,linux,docker,bash,vscode&theme=dark" />
+</p><br/>
 
 
 ---
@@ -39,10 +30,8 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamx-ariful-islam&theme=discord_old_blurple)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamx-ariful-islam&theme=discord_old_blurple)
 
-</div>
+</div><br/>
 
-
-<br/>
 
 <div align="center">
 
