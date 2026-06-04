@@ -35,23 +35,20 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/iamx.ariful.islam">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/iamx.ariful.islam.png" alt="Md. Ariful Islam" />
-</a><br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamx-ariful-islam)&nbsp;&nbsp;
+[![HackerOne](https://img.shields.io/badge/HackerOne-111827?style=for-the-badge&logo=hackerone&logoColor=9FEF00)](https://hackerone.com/iamx-ariful-islam)&nbsp;&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF0000)](https://tryhackme.com/p/iamx.ariful.islam)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamx-ariful-islam)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamx.ariful.islam@gmail.com)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mx_ariful_islam)&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@whoiamx)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamx-ariful-islam)&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamx.ariful.islam)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00AACC?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00AACC?style=for-the-badge&logo=codeforces&logoColor=white)](#)
 
 </div>
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
-  <br>
-  ⭐ If you find my projects helpful, consider giving them a star!
+  <br>⭐ If you find my projects helpful, consider giving them a star!
 </div>
