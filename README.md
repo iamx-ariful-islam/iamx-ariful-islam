@@ -27,9 +27,9 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=iamx-ariful-islam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)](https://github.com/iamx-ariful-islam)
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamx-ariful-islam&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://github.com/iamx-ariful-islam)
-
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamx-ariful-islam&layout=compact&theme=tokyonight&hide_border=true&border_radius=50)](https://github.com/iamx-ariful-islam)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamx-ariful-islam&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://github.com/iamx-ariful-islam)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamx-ariful-islam&theme=tokyo-night&hide_border=true)](https://github.com/iamx-ariful-islam)
 
