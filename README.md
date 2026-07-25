@@ -39,7 +39,8 @@ I’m a Cybersecurity and IT professional specializing in building **secure, sca
 <div align="center">
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-111827?style=for-the-badge&logo=hackerone&logoColor=9FEF00)](https://hackerone.com/iamx-ariful-islam)&nbsp;&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF0000)](https://tryhackme.com/p/iamx.ariful.islam)<br/>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF0000)](https://tryhackme.com/p/iamx.ariful.islam)&nbsp;&nbsp;
+[![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=intigriti&logoColor=ffffff)](https://app.intigriti.com/profile/iamx_ariful_islam)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamx-ariful-islam)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamx.ariful.islam@gmail.com)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mx_ariful_islam)&nbsp;&nbsp;
